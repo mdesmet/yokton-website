@@ -195,7 +195,9 @@
           if (!res.ok) throw new Error("HTTP " + res.status);
           return res.json();
         })
-        .then(function () {
+        .then(function (data) {
+          // FormSubmit 返回 HTTP 200 但 success 为 "false" 时（如表单未激活）也视为失败
+          if (String(data.success) !== "true") throw new Error(data.message || "Submission rejected");
           if (successBox) {
             successBox.classList.add("is-visible");
             successBox.scrollIntoView({ behavior: "smooth", block: "center" });
