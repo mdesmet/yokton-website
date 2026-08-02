@@ -193,8 +193,8 @@ input, textarea, select { font: inherit; color: inherit; }
   width: auto;
   display: block;
 }
-/* 深色背景下的 Logo（页脚） */
-.footer .brand-logo { filter: brightness(0) invert(1); opacity: 0.95; }
+/* 深色背景下的 Logo（页脚）：使用白色文字版 logo-white.png */
+.footer .brand-logo { opacity: 0.95; }
 
 /* 桌面菜单 */
 .nav-menu { display: flex; align-items: center; gap: 2px; }
