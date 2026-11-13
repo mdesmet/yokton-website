@@ -118,7 +118,7 @@ sudo certbot --nginx -d www.yokton.cn -d yokton.cn
 - ✅ 公司全称：深圳市约克顿语言服务有限公司 / Shenzhen Yokton Language Services Co., Ltd.
 - ✅ 邮箱：linda@yokton.cn
 - ✅ 电话/微信：(+86) 15820793871
-- ✅ 官网：www.yokton.cn
+- ✅ 官网：yokton.cn
 - ✅ 成立年份：2016 年
 - ✅ 服务语种：80+ 语种
 - ✅ 客户满意率：98%+

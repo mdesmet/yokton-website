@@ -1,0 +1,16 @@
+# 约克顿语言服务 / Yokton Language Services
+
+> 深圳市约克顿语言服务有限公司（Shenzhen Yokton Language Services Co., Ltd.），2016 年成立于深圳，国际语言翻译空间站。专注母语翻译、本土化表达、零障碍沟通，覆盖 80+ 语种。
+> Shenzhen-based language service provider founded in 2016: native translation, localized expression and zero-barrier communication across 80+ languages.
+
+## Services / 服务
+笔译 (translation), 口译 (interpreting), 配音 (dubbing), 听录 (transcription), 字幕 (subtitling), 本地化 (localization), 桌面排版 (DTP), 语言培训 (language training).
+
+## Pages
+- [中文官网 (Chinese)](https://yokton.cn/): 公司介绍、服务、语种、行业、质控流程、联系方式
+- [English site](https://yokton.cn/en/): company overview, services, languages, industries, quality process, contact
+
+## Contact
+- Email: linda@yokton.cn
+- Phone: +86-15820793871
+- Location: Nanshan District, Shenzhen, Guangdong, China
